@@ -1,6 +1,6 @@
 # UltraEdit Frontend Clone
 
-A frontend clone of the UltraEdit website built using HTML, CSS, and JavaScript for practice and learning purposes.
+This is a beginner frontend clone of the UltraEdit website built using HTML and CSS for practice purposes.
 
 ## Features
 
@@ -18,4 +18,4 @@ A frontend clone of the UltraEdit website built using HTML, CSS, and JavaScript 
 
 Frontend completed
 Responsiveness partially improved
-Further optimization in progress
+Built as an early beginner project for learning frontend development
